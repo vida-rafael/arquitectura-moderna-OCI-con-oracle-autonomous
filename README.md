@@ -70,6 +70,12 @@ Dentro de Oracle Cloud Infrastructure, Autonomous Database se apoya en una arqui
 
 Esto permite construir arquitecturas modernas **sin incrementar la complejidad operativa**.
 
+
+## Arquitectura de Oracle Autonomous Database en OCI
+
+diagrams/autonomous-architecture.png
+
+
 ---
 
 ## 🔄 Comparación con modelos tradicionales de bases de datos
