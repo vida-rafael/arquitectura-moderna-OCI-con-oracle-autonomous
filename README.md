@@ -73,7 +73,7 @@ Esto permite construir arquitecturas modernas **sin incrementar la complejidad o
 
 ## Arquitectura de Oracle Autonomous Database en OCI
 
-diagrams/autonomous-architecture.png
+![Arquitectura de Oracle Autonomous Database en OCI](diagrams/autonomous-architecture.png)
 
 
 ---
