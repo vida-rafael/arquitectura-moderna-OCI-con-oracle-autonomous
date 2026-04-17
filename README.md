@@ -27,6 +27,8 @@ En la práctica, el servicio se encarga de:
 
 Todo esto **sin intervención humana directa**.
 
+![Arquitectura de Oracle Autonomous Database en OCI](diagrams/autonomous-operational-flow.png)
+
 ---
 
 ## 🧱 Principios de la arquitectura autónoma
@@ -113,6 +115,10 @@ Con Autonomous Database, el modelo cambia radicalmente:
 
 El equipo define políticas y arquitectura, pero **no administra la base a bajo nivel**.
 
+
+![Arquitectura de Oracle Autonomous Database en OCI](diagrams/traditional-vs-autonomous.png)
+
+
 ---
 
 ## 📊 Resumen comparativo
@@ -184,3 +190,9 @@ La pregunta ya no es si la base de datos *puede* administrarse sola, sino:
 
 > **¿Qué podríamos lograr si ya no tuviéramos que administrarla como antes?**
 ``
+
+## Autor
+
+**Rafael Vida**  
+Oracle ACE | DBA & Data Architect  
+Oracle | MySQL |  AWS & OCI
