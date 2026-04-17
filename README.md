@@ -190,6 +190,7 @@ La pregunta ya no es si la base de datos *puede* administrarse sola, sino:
 
 > **¿Qué podríamos lograr si ya no tuviéramos que administrarla como antes?**
 ``
+---
 
 ## Autor
 
